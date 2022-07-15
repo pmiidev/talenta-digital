@@ -1,4 +1,4 @@
-# Talenta-digital
+# Talenta-digital :deciduous_tree:
 
 
 Yuk, bantu kami menciptakan circle kader dengan peminatan ke bidang Teknologi Informasi dalam ruang lingkup Informatika dan Ilmu Komputer. 
