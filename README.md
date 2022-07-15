@@ -1,9 +1,19 @@
-# talenta-digital
-Yuk, bantu kami menciptakan circle kader dengan peminatan ke bidang Teknologi Informasi dalam ruang lingkup Informatika dan Ilmu Komputer.
+# Talenta-digital
 
-Role:
 
-1. Backend Engineer https://bit.ly/jds-join-backend
-2. Frontend Engineer https://bit.ly/jds-join-frontend
-3. Mobile Developer https://bit.ly/join-jds-mobile
-4. DevOps / SRE Engineer https://bit.ly/jds-join-devops
+Yuk, bantu kami menciptakan circle kader dengan peminatan ke bidang Teknologi Informasi dalam ruang lingkup Informatika dan Ilmu Komputer. 
+
+Untuk formnya bisa diisi [**di sini**](https://docs.google.com/forms/d/e/1FAIpQLSfEZ1Vxp_ab6a7VPtWERPtROk2c6ibghEXGKLsCWHkDqrSVQg/viewform) yaaa..
+
+
+Untuk referensi pengetahuan bisa baca deskripsi Role di bawah:
+
+1. [Backend Engineer](https://github.com/pmiidev/talenta-digital/blob/main/Backend-Engineer.md)
+2. Frontend Engineer
+3. Mobile Developer
+4. DevOps / SRE Engineer
+5. Business Analyst
+6. Data Scientist
+7. Product Manager
+8. UI Designer
+9. UX Designer/Researcher
