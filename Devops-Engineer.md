@@ -1,6 +1,4 @@
 
-## DevOps / SRE Engineer
-
 # Uraian Kerja
 
 ## DevOps / SRE Engineer
