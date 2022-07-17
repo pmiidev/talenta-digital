@@ -11,7 +11,7 @@ Untuk referensi pengetahuan bisa baca deskripsi Role di bawah:
 1. [Backend Engineer](https://github.com/pmiidev/talenta-digital/blob/main/Backend-Engineer.md)
 2. Frontend Engineer
 3. Mobile Developer
-4. DevOps / SRE Engineer
+4. [DevOps / SRE Engineer](https://github.com/pmiidev/talenta-digital/blob/main/Devops-Engineer.md)
 5. Business Analyst
 6. Data Scientist
 7. Product Manager
