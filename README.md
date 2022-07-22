@@ -1,12 +1,12 @@
 # Talenta-digital :deciduous_tree:
 
+Halo Sahabat Digital 👋🏻
+Yuk, bantu kami membangun circle kader PMII dengan minat, passion, hingga profesi bidang IT 
 
-Yuk, bantu kami menciptakan circle kader dengan peminatan ke bidang Teknologi Informasi dalam ruang lingkup Informatika dan Ilmu Komputer. 
-
-Untuk formnya bisa diisi [**di sini**](https://docs.google.com/forms/d/e/1FAIpQLSfEZ1Vxp_ab6a7VPtWERPtROk2c6ibghEXGKLsCWHkDqrSVQg/viewform) yaaa..
+Untuk formnya bisa diisi [**di sini**](https://forms.gle/2ktVwEDKDBtuoPcXA) yaa👌🏻
 
 
-Untuk referensi pengetahuan bisa baca deskripsi Role di bawah:
+Untuk referensi pengetahuan bisa baca deskripsi Role berikut:
 
 1. [Backend Engineer](https://github.com/pmiidev/talenta-digital/blob/main/Backend-Engineer.md)
 2. [Frontend Engineer](https://github.com/pmiidev/talenta-digital/blob/main/Frontend-Engineer.md)
