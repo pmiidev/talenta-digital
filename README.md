@@ -1,10 +1,9 @@
 # Talenta-digital :deciduous_tree:
 
-Halo Sahabat Digital 👋🏻
+## Halo Sahabat Digital 👋🏻
 Yuk, bantu kami membangun circle kader PMII dengan minat, passion, hingga profesi bidang IT 
 
 Untuk formnya bisa diisi [**di sini**](https://forms.gle/2ktVwEDKDBtuoPcXA) yaa👌🏻
-
 
 Untuk referensi pengetahuan bisa baca deskripsi Role berikut:
 
